@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: ns-123123
   annotations:
-    client.lifecycle.config.k8s.io/mutation: ignore
+    #client.lifecycle.config.k8s.io/mutation: ignore

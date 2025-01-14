@@ -1,5 +1,5 @@
 resources:
-- ns.yaml
+#- ns.yaml
 
-namespace: ns-123123
+#namespace: ns-123123
 

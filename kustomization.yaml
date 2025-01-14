@@ -1,5 +1,5 @@
 resources:
 - Deploy.yaml
-- ns.yaml
+#- ns.yaml
 commonAnnotations:
   branch: main

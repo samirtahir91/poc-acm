@@ -1,2 +1,5 @@
 resources:
 - Deploy.yaml
+
+commonLabels:
+  branch: main

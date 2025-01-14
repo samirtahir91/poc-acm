@@ -1,2 +1,4 @@
-resources:
-- ns.yaml
+namespace: ns-123123
+
+labels:
+  branch: test
